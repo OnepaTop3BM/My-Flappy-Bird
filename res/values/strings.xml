@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flap-Flap</string>
+    <string name="action_settings">Settings</string>
+    <string name="ru_new_game">Новая игра</string>
+    <string name="ru_settings">Настройки...</string>
+</resources>
